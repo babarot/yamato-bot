@@ -21,7 +21,8 @@ yamato-bot
 
 - [ ] 複数の伝票番号に対応
 	- [ ] `bot yamato list` でリストアップ
-- [ ] `bot yamato set 30` として cron の周期 (分) を変える
+- [ ] `bot yamato set 30` で cron の周期 (分) を変える
+- [ ] `bot yamato status` で現在の配送状況を能動的に取得する
 
 ## 謝辞、ライセンス
 
